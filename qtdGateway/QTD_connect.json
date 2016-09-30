@@ -1,0 +1,19 @@
+{
+    "userID": "0",
+    "mdPassword": "0",
+    "tdPassword": "0",
+    "brokerID": "0",
+    "qryAddress": "0",
+    "productInfo": "0",
+    "authCode": "0", 
+    "mdAddress": "61.152.107.173",
+    "mdport": "7707",
+    "tdAddress": "61.152.107.139",
+    "tdport": "7708",
+    "tdver": "6.0",
+    "YybID": "0", 
+    "AccountNo": "99999", 
+    "TradeAccount": "9999",
+    "JyPassword": "1111", 
+    "TxPassword": ""
+}
